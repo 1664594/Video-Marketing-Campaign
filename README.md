@@ -41,7 +41,7 @@ Video-Marketing-Campaign/
 └── images/
     ├── dashboard_overview.png
     ├── campaign_performance.png
-    └── audience_insights.png
+    └── creator_segmentation.png
 ```
 
 ## Learning Outcomes
